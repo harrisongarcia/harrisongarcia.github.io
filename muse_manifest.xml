@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="harrisongarcia.ml" resolutions="1x" timestamp="1494950567936">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="harrisongarcia.ml" resolutions="1x" timestamp="1494950877349">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4022524315" ref="work:about:pictures:index:photography:projects:computer-graphics"/>
@@ -7,7 +7,7 @@
     <file name="pictures.css" crc="223467401" ref="pictures"/>
     <file name="index.css" crc="223467401" ref="index"/>
     <file name="photography.css" crc="3897454937" ref="photography"/>
-    <file name="projects.css" crc="198639255" ref="projects"/>
+    <file name="projects.css" crc="4177135100" ref="projects"/>
     <file name="computer-graphics.css" crc="435895750" ref="computer-graphics"/>
   </folder>
   <folder name="scripts">
@@ -105,5 +105,5 @@
   <file name="photography.html" crc="4244456325" seo="true" mt="1494613160826" redirect="true"/>
   <file name="pictures.html" crc="4101280334" seo="true" mt="1494939581568" redirect="true"/>
   <file name="computer-graphics.html" crc="3959357916" seo="true" mt="1494613235964" redirect="true"/>
-  <file name="projects.html" crc="4018472155" seo="true" mt="1494525197205" redirect="true"/>
+  <file name="projects.html" crc="204153598" seo="true" mt="1494950832584" redirect="true"/>
 </manifest>
