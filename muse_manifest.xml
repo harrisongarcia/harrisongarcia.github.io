@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="harrisongarcia.ml" resolutions="1x" timestamp="1495025935386">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="harrisongarcia.ml" resolutions="1x" timestamp="1495156941032">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3857119092" ref="projects:work:about:pictures:computer-graphics:photography:index"/>
-    <file name="projects.css" crc="80939120" ref="projects"/>
+    <file name="master_a-master.css" crc="3857119092" ref="work:about:projects:index:photography:computer-graphics:pictures"/>
     <file name="work.css" crc="370104023" ref="work"/>
     <file name="about.css" crc="270530910" ref="about"/>
-    <file name="pictures.css" crc="109372209" ref="pictures"/>
-    <file name="computer-graphics.css" crc="236756561" ref="computer-graphics"/>
-    <file name="photography.css" crc="41599144" ref="photography"/>
+    <file name="projects.css" crc="80939120" ref="projects"/>
     <file name="index.css" crc="270530910" ref="index"/>
+    <file name="photography.css" crc="41599144" ref="photography"/>
+    <file name="computer-graphics.css" crc="236756561" ref="computer-graphics"/>
+    <file name="pictures.css" crc="109372209" ref="pictures"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
@@ -30,12 +30,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cam.png" crc="359891662" seo="true" ref="index:about:work:photography:pictures:computer-graphics:projects">
+      <caption webpage="work" alt=""/>
       <caption webpage="pictures" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="work" alt=""/>
       <caption webpage="computer-graphics" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="chsn - copy.jpg" crc="373013280" seo="true" ref="photography">
@@ -149,7 +149,7 @@
   </folder>
   <file name="index.html" crc="380497621" seo="true" mt="1495025833661" redirect="true"/>
   <file name="about.html" crc="286653688" seo="true" mt="1495025833661" redirect="true"/>
-  <file name="work.html" crc="4177145890" seo="true" mt="1495025833661" redirect="true"/>
+  <file name="work.html" crc="324550152" seo="true" mt="1495156872900" redirect="true"/>
   <file name="photography.html" crc="303547768" seo="true" mt="1495025833661" redirect="true"/>
   <file name="pictures.html" crc="3761995137" seo="true" mt="1495025833661" redirect="true"/>
   <file name="computer-graphics.html" crc="4092864178" seo="true" mt="1495025833661" redirect="true"/>
