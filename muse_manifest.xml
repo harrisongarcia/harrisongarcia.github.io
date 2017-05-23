@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="harrisongarcia.ml" resolutions="1x" timestamp="1495156941032">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="harrisongarcia.ml" resolutions="1x" timestamp="1495564996675">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3857119092" ref="work:about:projects:index:photography:computer-graphics:pictures"/>
-    <file name="work.css" crc="370104023" ref="work"/>
-    <file name="about.css" crc="270530910" ref="about"/>
-    <file name="projects.css" crc="80939120" ref="projects"/>
-    <file name="index.css" crc="270530910" ref="index"/>
-    <file name="photography.css" crc="41599144" ref="photography"/>
-    <file name="computer-graphics.css" crc="236756561" ref="computer-graphics"/>
-    <file name="pictures.css" crc="109372209" ref="pictures"/>
+    <file name="master_a-master.css" crc="246230033" ref="photography:about:computer-graphics:work:pictures:index:projects"/>
+    <file name="photography.css" crc="165185564" ref="photography"/>
+    <file name="about.css" crc="3890104722" ref="about"/>
+    <file name="computer-graphics.css" crc="214451412" ref="computer-graphics"/>
+    <file name="work.css" crc="387395396" ref="work"/>
+    <file name="pictures.css" crc="3909451732" ref="pictures"/>
+    <file name="index.css" crc="233598826" ref="index"/>
+    <file name="projects.css" crc="81857861" ref="projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
@@ -17,6 +17,7 @@
     <file name="museconfig.js" crc="4152223963" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
     <file name="require.js" crc="4234670167" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
   </folder>
@@ -30,13 +31,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cam.png" crc="359891662" seo="true" ref="index:about:work:photography:pictures:computer-graphics:projects">
+      <caption webpage="about" alt=""/>
+      <caption webpage="computer-graphics" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="pictures" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="computer-graphics" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="pictures" alt=""/>
+    </file>
+    <file name="img_0284.jpg" crc="87435969" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="chsn - copy.jpg" crc="373013280" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
@@ -56,7 +60,7 @@
     <file name="oa2.jpg" crc="4227324568" seo="true" ref="pictures">
       <caption webpage="pictures" alt=""/>
     </file>
-    <file name="oa1.jpg" crc="3888401241" seo="true" ref="pictures">
+    <file name="oa1.jpg" crc="125421209" seo="true" ref="pictures">
       <caption webpage="pictures" alt=""/>
     </file>
     <file name="file_000.jpg" crc="3801092580" seo="true" ref="pictures">
@@ -147,11 +151,11 @@
       <caption webpage="projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="380497621" seo="true" mt="1495025833661" redirect="true"/>
-  <file name="about.html" crc="286653688" seo="true" mt="1495025833661" redirect="true"/>
-  <file name="work.html" crc="324550152" seo="true" mt="1495156872900" redirect="true"/>
-  <file name="photography.html" crc="303547768" seo="true" mt="1495025833661" redirect="true"/>
-  <file name="pictures.html" crc="3761995137" seo="true" mt="1495025833661" redirect="true"/>
-  <file name="computer-graphics.html" crc="4092864178" seo="true" mt="1495025833661" redirect="true"/>
-  <file name="projects.html" crc="3899843217" seo="true" mt="1495025833661" redirect="true"/>
+  <file name="index.html" crc="4149176073" seo="true" mt="1495564948592" redirect="true"/>
+  <file name="about.html" crc="3849707436" seo="true" mt="1495564330800" redirect="true"/>
+  <file name="work.html" crc="3887652812" seo="true" mt="1495564330800" redirect="true"/>
+  <file name="photography.html" crc="351255466" seo="true" mt="1495564330800" redirect="true"/>
+  <file name="pictures.html" crc="4246923491" seo="true" mt="1495564330800" redirect="true"/>
+  <file name="computer-graphics.html" crc="529831447" seo="true" mt="1495564330800" redirect="true"/>
+  <file name="projects.html" crc="3822707219" seo="true" mt="1495564330800" redirect="true"/>
 </manifest>
