@@ -1,174 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://harrisongarcia.ml/index.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/index.html</loc>
+    <lastmod>2017-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://harrisongarcia.ml/about.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/about.html</loc>
+    <lastmod>2017-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://harrisongarcia.github.io/images/ss4472x321.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://harrisongarcia.ml/work.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/work.html</loc>
+    <lastmod>2017-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://harrisongarcia.ml/photography.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/photography.html</loc>
+    <lastmod>2017-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/chsn%20-%20copy.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/chsn%20-%20copy.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://harrisongarcia.ml/pictures.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/pictures.html</loc>
+    <lastmod>2017-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/file_002.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/file_002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/chsn.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/chsn.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/file_004.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/file_004.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/oa3.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/oa3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/oa2.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/oa2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/oa1.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/oa1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/file_000.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/file_000.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/sp1.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/sp1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/sp2.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/sp2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/sp3.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/sp3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/contact%20sheet.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/contact%20sheet.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/ll3.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/ll3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/ll1.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/ll1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/ll2.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/ll2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/file_001.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/file_001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/file_003.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/file_003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://harrisongarcia.github.io/images/ss1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://harrisongarcia.github.io/images/ss2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://harrisongarcia.github.io/images/ss3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://harrisongarcia.github.io/images/ss4.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://harrisongarcia.ml/computer-graphics.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/computer-graphics.html</loc>
+    <lastmod>2017-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/background-crop-u717.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/background-crop-u717.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://harrisongarcia.ml/projects.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>https://harrisongarcia.github.io/projects.html</loc>
+    <lastmod>2017-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/cam.png</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/cam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/1.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/2.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3(1).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3(1).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3(6).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3(6).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3(2).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3(2).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3(4).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3(4).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3(3).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3(3).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/3(5).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/3(5).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/4.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/6.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/5.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/7.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/7(1).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/7(1).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/7(2).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/7(2).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/7(3).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/7(3).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/7(4).jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/7(4).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://harrisongarcia.ml/images/8.jpg</image:loc>
+      <image:loc>https://harrisongarcia.github.io/images/8.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
