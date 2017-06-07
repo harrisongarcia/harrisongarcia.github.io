@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://harrisongarcia.github.io" resolutions="1x" timestamp="1496803612933">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://harrisongarcia.github.io" resolutions="1x" timestamp="1496839971379">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="168568699" ref="about:index:projects:work:photography:computer-graphics:pictures"/>
-    <file name="about.css" crc="293345154" ref="about"/>
-    <file name="index.css" crc="4019192680" ref="index"/>
-    <file name="projects.css" crc="439165139" ref="projects"/>
-    <file name="work.css" crc="387395396" ref="work"/>
-    <file name="photography.css" crc="165185564" ref="photography"/>
+    <file name="master_a-master.css" crc="3791263357" ref="about:computer-graphics:index:projects:photography:work:pictures"/>
+    <file name="about.css" crc="4198325200" ref="about"/>
     <file name="computer-graphics.css" crc="214451412" ref="computer-graphics"/>
-    <file name="pictures.css" crc="3771131649" ref="pictures"/>
+    <file name="index.css" crc="183071424" ref="index"/>
+    <file name="projects.css" crc="3919153495" ref="projects"/>
+    <file name="photography.css" crc="165185564" ref="photography"/>
+    <file name="work.css" crc="371477383" ref="work"/>
+    <file name="pictures.css" crc="3955187113" ref="pictures"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:work:photography:pictures:computer-graphics:projects"/>
@@ -25,24 +25,24 @@
     <file name="favicon.ico" crc="309360907" ref="index"/>
     <file name="arrowmenudown.png" crc="262559161" ref="index:pictures:projects">
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="pictures" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="arrowmenuright.png" crc="41086373" ref="index:pictures:projects">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
       <caption webpage="pictures" alt=""/>
       <caption webpage="pictures" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="cam.png" crc="359891662" seo="true" ref="index:about:work:photography:pictures:computer-graphics:projects">
-      <caption webpage="pictures" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="work" alt=""/>
       <caption webpage="computer-graphics" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="work" alt=""/>
+      <caption webpage="pictures" alt=""/>
       <caption webpage="projects" alt=""/>
     </file>
     <file name="img_0284.jpg" crc="87435969" ref="index">
@@ -172,11 +172,11 @@
       <caption webpage="projects" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="175851707" seo="true" mt="1495642169281" redirect="true"/>
-  <file name="about.html" crc="3931538954" seo="true" mt="1496803307227" redirect="true"/>
-  <file name="work.html" crc="249431371" seo="true" mt="1495642169281" redirect="true"/>
-  <file name="photography.html" crc="4132044493" seo="true" mt="1495642169281" redirect="true"/>
-  <file name="pictures.html" crc="473260873" seo="true" mt="1496803564379" redirect="true"/>
-  <file name="computer-graphics.html" crc="4091276877" seo="true" mt="1495642169281" redirect="true"/>
-  <file name="projects.html" crc="125125228" seo="true" mt="1495642583313" redirect="true"/>
+  <file name="index.html" crc="442677625" seo="true" mt="1495642169281" redirect="true"/>
+  <file name="about.html" crc="4034597592" seo="true" mt="1496839943808" redirect="true"/>
+  <file name="work.html" crc="4005571572" seo="true" mt="1495642169281" redirect="true"/>
+  <file name="photography.html" crc="304349144" seo="true" mt="1495642169281" redirect="true"/>
+  <file name="pictures.html" crc="3837867217" seo="true" mt="1496839245474" redirect="true"/>
+  <file name="computer-graphics.html" crc="522571513" seo="true" mt="1495642169281" redirect="true"/>
+  <file name="projects.html" crc="57736448" seo="true" mt="1495642583313" redirect="true"/>
 </manifest>
